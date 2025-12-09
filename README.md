@@ -1,7 +1,7 @@
 # Code in Place - Stanford University 2025
 
 <p align="center">
-  <img src="https://code-in-place.stanford.edu/img/logo.png" alt="Stanford University Logo" width="400"/>
+  <img src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png" alt="Stanford University Logo" width="200"/>
 </p>
 
 ## About Code in Place
